@@ -1,38 +1,21 @@
 [
   {
-    "github": "username1",
-    "telegram": "@admin1",
+    "id": "admin1",
     "name": "Артем",
-    "status": "online",
-    "role": "создатель",
-    "position": "Главный разработчик",
-    "description": "Отвечает за серверную часть и интеграции."
+    "status": {
+      "state": "работает"
+    },
+    "description": "Главный разработчик и основатель проекта.",
+    "role": "создатель"
   },
   {
-    "github": "username2",
-    "telegram": "@admin2",
+    "id": "moderator2",
     "name": "Ирина",
-    "status": "offline",
-    "role": "викивод",
-    "position": "викивод",
-    "description": "Следит за контентом и стилем статей."
-  }, 
-  {
-    "github": "username1",
-    "telegram": "@admin1",
-    "name": "Артем",
-    "status": "online",
-    "role": "старший админ",
-    "position": "старший админ",
-    "description": "Отвечает за серверную часть и интеграции."
-  }, 
-  {
-    "github": "username1",
-    "telegram": "@admin1",
-    "name": "Артем",
-    "status": "online",
-    "role": "викивод1",
-    "position": "викивод1",
-    "description": "Отвечает за серверную часть и интеграции."
+    "status": {
+      "state": "отпуск",
+      "reason": "экзамены до 20 июня"
+    },
+    "description": "Следит за контентом и обновлениями статей.",
+    "role": "викивод"
   }
 ]
