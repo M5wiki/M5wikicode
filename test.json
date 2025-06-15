@@ -17,7 +17,7 @@
       "reason": "экзамены до 320 июня"
     },
     "description": "Следит за контентом и обновлениями статей.",
-    "role": "старший админ",
+    "role": "модер",
     "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/avatars/irina.jpg"
   },
   {
@@ -50,7 +50,7 @@
       "reason": "экзамены до 20 июня"
     },
     "description": "Следит за контентом и .",
-    "role": "старший админ",
+    "role": "модер",
     "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/avatars/irina.jpg"
   }
 ]
