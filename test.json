@@ -31,8 +31,8 @@
     "telegram": "@admin1",
     "name": "Артем",
     "status": "online",
-    "role": "викивод",
-    "position": "викивод",
+    "role": "викивод1",
+    "position": "викивод1",
     "description": "Отвечает за серверную часть и интеграции."
   }
 ]
