@@ -6,7 +6,8 @@
       "state": "работает"
     },
     "description": "Главный разработчик и основатель проекта.",
-    "role": "создатель"
+    "role": "создатель",
+    "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/avatars/artem.png"
   },
   {
     "id": "moderator2",
@@ -16,6 +17,7 @@
       "reason": "экзамены до 20 июня"
     },
     "description": "Следит за контентом и обновлениями статей.",
-    "role": "викивод"
+    "role": "викивод",
+    "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/avatars/irina.jpg"
   }
 ]
