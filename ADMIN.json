@@ -1,0 +1,12 @@
+[
+  {
+    "id": "@kirillturi",
+    "name": "@kirillturi",
+    "status": {
+      "state": "работает"
+    },
+    "description": "Вдохновитель, архитектор и главный ум проекта M5Wiki. Он объединяет идеи в реальные решения.",
+    "role": "создатель",
+    "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/kirillturi.png"
+  }
+]
