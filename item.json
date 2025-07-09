@@ -1,0 +1,10 @@
+{
+  "id": "m5light_sensor_x3",
+  "name": "Сенсор освещения X3",
+  "author": "KirilL Pro",
+  "description": "Модуль освещения для тестов в условиях низкой освещённости.",
+  "image": "https://raw.githubusercontent.com/user1/repo/main/img/sensor.png",
+  "tags": ["сенсор", "освещение", "m5"],
+  "download": "https://github.com/user1/repo/releases/download/v1.0/m5light_x3.uf2",
+  "edit_url": "https://github.com/user1/repo/blob/main/item.json"
+}
