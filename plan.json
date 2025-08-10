@@ -115,5 +115,23 @@
     "status": "планируется",
     "assigned_by": "kirillturi",
     "assigned_to": "kirillturi"
+  }, 
+  {
+    "year": 2025,
+    "month": "Август",
+    "title": "Улучшение дизайна",
+    "content": "Улучшения дизайна, планы и разработки, а также новости и обновления.",
+    "status": "планируется",
+    "assigned_by": "kirillturi",
+    "assigned_to": "kirillturi"
+  }, 
+  {
+    "year": 2025,
+    "month": "Август",
+    "title": "Система защиты страниц",
+    "content": "Разработка базовой системы безопасности для защиты страниц на M5wiki. Доступ к контенту будет осуществляться только по паролю.",
+    "status": "планируется",
+    "assigned_by": "kirillturi",
+    "assigned_to": "kirillturi"
   }
 ]
