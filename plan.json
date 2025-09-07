@@ -133,5 +133,14 @@
     "status": "готово",
     "assigned_by": "kirillturi",
     "assigned_to": "kirillturi"
+  }, 
+  {
+    "year": 2025,
+    "month": "Сентября",
+    "title": "Продолжение выпуска новых гайдов на M5Wiki.",
+    "content": "В последнее время давно нету новых гайдов на m5wiki, хоть уже и обновился bruce.",
+    "status": "в процессе",
+    "assigned_by": "kirillturi",
+    "assigned_to": "kirillturi"
   }
 ]
