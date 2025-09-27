@@ -10,5 +10,17 @@
     "description": "Случайно нажал «Создать вики» — теперь вот руковожу этим хаосом. Добро пожаловать!",
     "role": "главный админ",
     "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/image/admin/kirillturi.png"
+  },
+  {
+    "id": "Samsung_kn0x",
+    "name": "@Samsung_kn0x",
+    "user": "Samsung_kn0x",
+    "status": {
+      "state": "работает",
+      "reason": ""
+    },
+    "description": "Описание нету.",
+    "role": "младший админ",
+    "avatar": "https://raw.githubusercontent.com/M5wiki/M5wikicode/main/image/admin/Samsung_kn0x.png"
   }
 ]
