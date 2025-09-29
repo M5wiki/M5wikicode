@@ -10,8 +10,8 @@
 
 ## 📁 Структура репозитория
 
-- /image/ картинки
-- /json/ JSON-файлы
+- [/image/](https://github.com/M5wiki/M5wikicode/tree/main/image) картинки
+- [/json/](https://github.com/M5wiki/M5wikicode/tree/main/json) JSON-файлы
 
 ## 🧠 Назначение
 
